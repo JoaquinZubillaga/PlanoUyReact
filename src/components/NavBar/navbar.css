@@ -1,0 +1,14 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+
+.categories{
+    display: flex;
+    list-style: none;
+    flex-direction: column;
+}
+
+.cartwidget{
+    display: flex;
+}
