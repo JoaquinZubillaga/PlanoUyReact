@@ -12,3 +12,7 @@
 .cartwidget{
     display: flex;
 }
+
+.logo{
+    width: 30%;
+}
